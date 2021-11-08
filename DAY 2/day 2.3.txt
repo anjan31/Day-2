@@ -1,0 +1,11 @@
+Execute the below code 
+
+typeof(1) - NUMBER
+typeof(1.1) - NUMBER
+typeof('1.1') - STRING
+typeof(true) - BOOLEAN
+typeof(null) - OBJECT
+typeof(undefined) - UNDEFINED
+typeof([]) - OBJECT
+typeof({}) - OBJECT
+typeof(NaN) - NUMBER
